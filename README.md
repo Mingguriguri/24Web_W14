@@ -1,6 +1,6 @@
 # 24Web_W14
 
-14주차 실습 과제
+14주차 실습 과제 실행화면: https://mingguriguri.github.io/24Web_W14/
 
 본 수업의 전체 레포지토리는 여기에 있습니다: https://github.com/Mingguriguri/WebProgramming-Cyber-
 
